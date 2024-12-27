@@ -1,0 +1,16 @@
+team-leader-assistant/
+├── client/                 # 前端代码
+│   ├── src/
+│   │   ├── components/    
+│   │   ├── pages/         
+│   │   ├── redux/         
+│   │   ├── services/      
+│   │   └── utils/         
+├── server/                 # 后端代码
+│   ├── config/            
+│   ├── controllers/       
+│   ├── models/           
+│   ├── routes/           
+│   └── utils/            
+└── database/              # 数据库相关
+    └── migrations/        
